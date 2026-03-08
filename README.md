@@ -18,3 +18,14 @@ pip install -r requirements.txt
 Run the app
 
 streamlit run app.py
+
+## Project Output
+
+### Before Organizing Files
+![Before](before.png)
+
+### Running the Script
+![Running](running.png)
+
+### After Organizing Files
+![After](after.png)
