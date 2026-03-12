@@ -29,3 +29,9 @@ streamlit run app.py
 
 ### After Organizing Files
 ![After](after.png)
+
+## 🚀 Live Demo
+
+Click here to use the application:
+
+[AI File Organizer Agent](https://ai-file-organizer-agent-b9hcagmcwa8wzc7pkfjgak.streamlit.app/)
